@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dpanze
+- 👋 Hi, I’m Dennis Puozzo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Php
 - 💞️ I’m looking to collaborate on project
